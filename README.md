@@ -134,7 +134,8 @@ GitHub: https://github.com/LindokuhleNanto2
 ---
 
 ## References
-Available upon request  
+Sharon Khumalo – 062 846 8081/ sharon.khumalo@omni4africa.com (Manager at Omni Africa) 
+Amy Daniels – 063 159 5342 / danielsam@cput.ac.za (Peer Helper Supervisor)
 
 ## Interview Video
  [Watch my interview here]
