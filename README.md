@@ -137,7 +137,8 @@ GitHub: https://github.com/LindokuhleNanto2
 Sharon Khumalo – 062 846 8081/ sharon.khumalo@omni4africa.com (Manager at Omni Africa) 
 Amy Daniels – 063 159 5342 / danielsam@cput.ac.za (Peer Helper Supervisor)
 
-## Interview Video
- [Watch my interview here]
+## Mock Interview Video
 
- https://drive.google.com/file/d/1nb_1_-t4ZPoORbwi5EiqL1Ru6ssePhWO/view?usp=drivesdk
+ <video width="600" 
+        controls src="Mock Interview of Lindokuhle Nanto.mp4">
+</video>
