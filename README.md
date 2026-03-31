@@ -139,6 +139,5 @@ Amy Daniels – 063 159 5342 / danielsam@cput.ac.za (Peer Helper Supervisor)
 
 ## Mock Interview Video
 
- <video width="600" 
-        controls src="Mock Interview of Lindokuhle Nanto.mp4">
+ <video width="600" controls src="Mock Interview of Lindokuhle Nanto.mp4">
 </video>
