@@ -137,7 +137,60 @@ GitHub: https://github.com/LindokuhleNanto2
 Sharon Khumalo – 062 846 8081/ sharon.khumalo@omni4africa.com (Manager at Omni Africa) 
 Amy Daniels – 063 159 5342 / danielsam@cput.ac.za (Peer Helper Supervisor)
 
+
+## Reflection on Coding CV in Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a professional CV using Markdown for my GitHub portfolio.
+
+**Task:**  
+My task was to structure and format my CV clearly using Markdown syntax.
+
+**Action:**  
+I used headings, lists, and formatting techniques in Markdown to organize my CV professionally. I ensured readability and proper structure.
+
+**Result:**  
+I successfully created a clean and professional CV that is easy to read and accessible online, improving my technical documentation skills.
+
+---
+
+
 ## Mock Interview Video
 
  <video width="600" controls src="Interview PRP.mp4">
 </video>
+
+
+## Reflection on Mock Interview (STAR Method)
+
+**Situation:**  
+I participated in a mock interview as part of work readiness training.
+
+**Task:**  
+I needed to demonstrate my communication skills, confidence, and ability to answer interview questions.
+
+**Action:**  
+I prepared by practicing common interview questions, improving my communication, and presenting myself professionally during the interview.
+
+**Result:**  
+I gained confidence in answering questions, improved my communication skills, and identified areas for improvement such as body language and clarity.
+
+---
+
+
+## Reflection on GitHub Pages (STAR Method)
+
+**Situation:**  
+I was required to publish my portfolio using GitHub Pages.
+
+**Task:**  
+My task was to deploy my repository as a live website.
+
+**Action:**  
+I configured GitHub Pages, selected the main branch, and ensured my README and files were properly structured for deployment.
+
+**Result:**  
+I successfully published my portfolio online, making it accessible to others and improving my understanding of web deployment.
+
+---
+
